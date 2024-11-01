@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string-array name="data_name">
+        <item>Ahmad Dahlan</item>
+        <item>Ahmad Yani</item>
+        <item>Sutomo</item>
+        <item>Gatot Soebroto</item>
+        <item>Ki Hadjar Dewantara</item>
+        <item>Mohammad Hatta</item>
+        <item>Soedirman</item>
+        <item>Soekarno</item>
+        <item>Soepomo</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Deskripsi Ahmad Dahlan...</item>
+        <item>Deskripsi Ahmad Yani...</item>
+        <item>Deskripsi Sutomo...</item>
+        <item>Deskripsi Gatot Soebroto...</item>
+        <item>Deskripsi Ki Hadjar Dewantara...</item>
+        <item>Deskripsi Mohammad Hatta...</item>
+        <item>Deskripsi Soedirman...</item>
+        <item>Deskripsi Soekarno...</item>
+        <item>Deskripsi Soepomo...</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ahmad_dahlan</item>
+        <item>@drawable/ahmad_yani</item>
+        <item>@drawable/bung_tomo</item>
+        <item>@drawable/gatot_subroto</item>
+        <item>@drawable/ki_hadjar_dewantara</item>
+        <item>@drawable/mohammad_hatta</item>
+        <item>@drawable/sudirman</item>
+        <item>@drawable/sukarno</item>
+        <item>@drawable/supomo</item>
+    </integer-array>
+</resources>
